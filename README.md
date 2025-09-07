@@ -4,9 +4,13 @@ Solo personal autorizado puede utilizar estos recursos.
 🛡️ Normas de Seguridad
 
 ✅ Todas las conexiones deben usar encriptación E2E (Extremo a Extremo).
+
 ✅ Verificar la identidad del cliente antes de iniciar la conexión.
+
 ✅ Nunca acceder a sistemas sin consentimiento explícito del cliente.
+
 ✅ Registar todas las sesiones con fines de auditoría (ID_Sesión + Timestamp).
+
 ✅ Los archivos de credenciales (ej: .env, keys) deben excluirse del repositorio.
 
 🔐 Protocolo de Conexión
